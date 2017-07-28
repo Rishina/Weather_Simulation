@@ -1,0 +1,14 @@
+com\cba\weather\beans\HistoricalData.class
+com\cba\weather\repository\WeatherReportingDataImpl.class
+com\cba\weather\repository\WeatherReportingData.class
+com\cba\weather\beans\Observations.class
+com\cba\weather\WeatherReport.class
+com\cba\weather\constants\WeatherConstants.class
+com\cba\weather\beans\History.class
+com\cba\weather\service\WeatherReportingService.class
+com\cba\weather\beans\WeatherData.class
+com\cba\weather\beans\WeatherDataSet.class
+com\cba\weather\Weather.class
+com\cba\weather\beans\Date.class
+com\cba\weather\service\WeatherCalculationService.class
+com\cba\weather\service\WeatherReportingServiceImpl.class

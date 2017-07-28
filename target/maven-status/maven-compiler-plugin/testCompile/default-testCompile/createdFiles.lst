@@ -1,0 +1,4 @@
+com\cba\weather\service\WeatherCalculationServiceTest.class
+com\cba\weather\WeatherTest.class
+com\cba\weather\service\WeatherReportingServiceImplTest.class
+com\cba\weather\WeatherReportTest.class
